@@ -1,0 +1,1 @@
+console.log('I am checking case insensitivity in file names');
